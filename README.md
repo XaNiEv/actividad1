@@ -2,8 +2,8 @@ Mi Actividad - Creacion de Repositorio GIT
 
 Hola mundo!!!
 
-Comparto con todos ustedes la actividad de repositorios
-
+Comparto con todos ustedes la evidencia
+desarrollada para GIT
 
 Gracias por su atencion.
 
